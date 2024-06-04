@@ -119,3 +119,11 @@ footer, header {
 .author {
     padding-bottom: 0;
 }
+
+/* Отзывы */
+
+.asm_img {
+    max-width: 150px;
+    border-radius: 50%;
+    border: 3px solid var(--color1);
+}
