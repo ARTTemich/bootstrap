@@ -64,7 +64,7 @@ footer, header {
 
 /* О курсе */
 
-.about, .shedule, .learning {
+.about, .shedule, .author {
     background-color: #eee;
 }
 .about i {
@@ -108,4 +108,14 @@ footer, header {
 .learning h5 {
     border: 3px solid var(--color1);
     padding: 25px;
+}
+
+/* Об авторе */
+
+.itd_img {
+    max-width: 260px;
+}
+
+.author {
+    padding-bottom: 0;
 }
